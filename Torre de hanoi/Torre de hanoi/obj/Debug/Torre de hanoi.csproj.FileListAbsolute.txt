@@ -1,0 +1,7 @@
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Torre de hanoi\Torre de hanoi\bin\Debug\Torre de hanoi.exe.config
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Torre de hanoi\Torre de hanoi\bin\Debug\Torre de hanoi.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Torre de hanoi\Torre de hanoi\bin\Debug\Torre de hanoi.pdb
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Torre de hanoi\Torre de hanoi\obj\Debug\Torre de hanoi.csproj.AssemblyReference.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Torre de hanoi\Torre de hanoi\obj\Debug\Torre de hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Torre de hanoi\Torre de hanoi\obj\Debug\Torre de hanoi.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Torre de hanoi\Torre de hanoi\obj\Debug\Torre de hanoi.pdb
